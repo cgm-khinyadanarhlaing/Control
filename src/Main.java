@@ -5,6 +5,8 @@ public class Main {
         String result = checkMachine("Bicycle");
         System.out.println(result);
 
+        System.out.println("Hello From Git");
+
         // variable Naming
     }
 
